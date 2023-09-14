@@ -7,4 +7,12 @@ public class HelloWorld {
 		
 	}
 
+
+	public void Test1() {
+		// TODO Auto-generated constructor stub
+	}
+	public void Test2() {
+	
+
+}
 }
